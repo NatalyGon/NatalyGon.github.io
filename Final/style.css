@@ -1,0 +1,32 @@
+.banner {
+    background-color: br;
+    color: wheat;
+    background-image: url(images/header.PNG);
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: 0px;
+}
+
+#demo {
+    text-align: center;
+}
+
+body {
+    background-color: wheat;
+    background-image: url();
+}
+
+.col img {
+    width: 200px;
+    height: 200px;
+}
+
+.col {
+    margin: 20px;
+}
+
+.footer {
+    background-color: burlywood;
+    background-image: url();
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
